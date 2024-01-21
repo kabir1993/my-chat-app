@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <h1>Your Chat App</h1>
+      
       <Chat />
     </div>
   );
